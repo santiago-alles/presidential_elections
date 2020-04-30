@@ -28,7 +28,7 @@ Data Availability
 Data can be directly called from the repository using Hadley Wickham's <a href="https://cran.r-project.org/web/packages/readr/readr.pdf" target="_blank">readr</a> package:
 
 <pre><code>require(readr)
-url <- 'https://raw.githubusercontent.com/santiago-alles/presidential_election_19832019/master/'
+url <- 'https://raw.githubusercontent.com/santiago-alles/presidential_elections/master/'
 file <- 'JELS2016_PRESelections_ARG19832019.csv'
 read_csv(paste(url, file, sep='/')) -> dat
 </code></pre>
