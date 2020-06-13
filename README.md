@@ -1,5 +1,5 @@
 # presidential_election_19832019
-Presidential elections in Argentina, 1983-2019
+Presidential Elections in Argentina, 1983-2019
 ==============================================
 
 The Argentine president is elected for a four-year term and limited to two consecutive terms in office, but she is eligible to run for re-election after a four-year interval. Presidents were elected for a six-year term without reelection until 1994.
