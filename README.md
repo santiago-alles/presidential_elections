@@ -1,4 +1,3 @@
-# presidential_election_19832019
 Presidential Elections in Argentina, 1983-2019
 ==============================================
 
