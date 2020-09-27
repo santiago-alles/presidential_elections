@@ -2,6 +2,10 @@
 Presidential Elections in Argentina, 1983-2019
 ==============================================
 
+Last update:
+------------------
+01-05-2020
+
 The Argentine president is elected for a four-year term and limited to two consecutive terms in office, but she is eligible to run for re-election after a four-year interval. Presidents were elected for a six-year term without reelection until 1994.
 
 Argentina has utilized a modified version of the double complement rule to elect its president, since a constitutional amendment in 1994 supressed the Electoral College. A runoff between the top two presidential candidates from a first round is held unless the plurality candidate either wins 45% +1 of the vote or wins at least 40% of the vote and at the same time has a margin of victory over the second place candidate of more than 10%.
