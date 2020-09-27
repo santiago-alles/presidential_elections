@@ -51,6 +51,8 @@ When using this dataset, please cite:
 Alternative Sources on Election Data
 -------------------
 
-Lupu and Stokes have published more detailed election data, for a larger period of time: their dataset combines department-level electoral results for all available national elections in Argentina from 1912 to 2003, with census data on urbanization, literature, and population. Differently, their dataset exclusively focuses on major parties: PJ, UCR, Socialists and Conservatives, while this dataset includes data of all parties.
+Lupu and Stokes have published more detailed election data, for a larger period of time: their dataset combines department-level electoral results for all available national elections in Argentina from 1912 to 2003, with census data on urbanization, literature, and population.
+
+Differently, their dataset exclusively focuses on major parties: PJ, UCR, Socialists and Conservatives; while this dataset includes complete election results.
 
 (Last time I checked) Lupu & Stokes dataset was available at: <http://www.noamlupu.com/data.html>
